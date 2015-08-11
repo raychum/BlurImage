@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BlurImageView">
+        <attr name="blurMargin" format="dimension"/>
+        <attr name="blurMarginLeft" format="dimension" />
+        <attr name="blurMarginRight" format="dimension" />
+        <attr name="blurMarginTop" format="dimension" />
+        <attr name="blurMarginBottom" format="dimension" />
+        <attr name="blurRadius" format="integer" />
+        <attr name="maskColor" format="color" />
+    </declare-styleable>
+</resources>
